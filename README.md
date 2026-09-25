@@ -397,8 +397,8 @@ Sum 1..10 = 55
 docker rmi ghcr.io/rurewa/hello-rust:latest
 ```
 
-![Image](./img/1.png)
+![Image](./1.png)
 
-![Image](./img/2.png)
+![Image](./2.png)
 
-![Image](./img/3.png)
+![Image](./3.png)
